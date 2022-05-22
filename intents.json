@@ -80,5 +80,18 @@
         "What did the buffalo say when his son left for college? Bison."
       ]
     }
+,
+    {
+      "tag": "relevent",
+      "patterns": [
+        "can i buy something",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "no",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
   ]
 }
